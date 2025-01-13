@@ -32,3 +32,7 @@ Stage 4.2: Evaluating LLM
 Automated Conversational Benchmark with Llama 3.1 8 Billion Parameter Model to Evaluate the Fine-tuned Model Responses.
 The model was deployed using the open-source Ollama application, with REST API utilized to streamline request automation within Python scripts.
 Achieved average accuracy score of 62.7
+
+Resources:
+Book - Build a Large Language Model (From Scratch) by Sebastian Raschka
+YouTube - https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu
