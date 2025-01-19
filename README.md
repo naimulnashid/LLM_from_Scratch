@@ -1,4 +1,4 @@
-# Project Overview
+# 774 Million Parameter Large Language Model from Scratch
 
 ## Stage 1: **Designing and Training Custom GPT Architecture**
 - Designed and implemented core components of the **GPT architecture**, including:
